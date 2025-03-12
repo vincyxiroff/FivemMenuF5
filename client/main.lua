@@ -1,7 +1,7 @@
 function menuoxf5()
     lib.registerContext({
         id = 'menuf5',
-        title = "MENUF5",
+        title = Config.menutitle,
         options = {
             {
                 title = Lang.documents,
