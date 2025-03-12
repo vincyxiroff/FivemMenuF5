@@ -18,6 +18,6 @@ $$ | \_/ $$ |\$$$$$$$\ $$ |  $$ |\$$$$$$  |      $$ |      \$$$$$$  |
 \__|     \__| \_______|\__|  \__| \______/       \__|       \______/ 
 ^0
     ]])
-    print("^2[Menu F5] Avviato con successo!^0")
+    print("^2[Menu F5] Successfully Started!^0")
     print("^3GitHub: https://github.com/vincyxiroff/esxMenuF5^0")
 end
