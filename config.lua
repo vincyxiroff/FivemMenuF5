@@ -1,5 +1,7 @@
 Config = {}
 
+Config.menutitle = "menu F5"
+
 Config.cmdDocuments = "docsmenu" -- Documents command 
 Config.cmdInvoices = "fatture" -- Invoices command   
  
